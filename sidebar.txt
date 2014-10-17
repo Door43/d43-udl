@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[udl:home|Door43 (udl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-udl|d43-udl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-udl/archive/master.zip|d43-udl.zip]]
+
+**Recent Changes**
+{{changes>ns = udl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/udl|Ethnologue data]]
+
